@@ -2,12 +2,12 @@ html {
   box-sizing: border-box
 }
 
-* *::before *::after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
 body{
-      background-color #ccc;
+      background-color #151483;
 font-family:sans-serif;
 }
 
@@ -15,5 +15,6 @@ h1 {
   font-size: 1.5rem;
 
   article {
-  font-style: italic
-color: #666;}
+  font-style: italic;
+color: #462666;
+}
