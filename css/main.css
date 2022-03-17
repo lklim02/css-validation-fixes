@@ -1,20 +1,22 @@
 html {
-  box-sizing: border-box
+  box-sizing: border-box;
+  background-color: #151483;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-body{
-      background-color #151483;
-font-family:sans-serif;
+body {
+
+  font-family: sans-serif;
 }
 
 h1 {
   font-size: 1.5rem;
+}
 
-  article {
+article {
   font-style: italic;
-color: #462666;
+  color: #462666;
 }
